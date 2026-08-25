@@ -1,6 +1,7 @@
 import argparse
 import torch
 import os
+# Reference: https://arxiv.org/abs/2406.04716
 import json
 from tqdm import tqdm
 import shortuuid
